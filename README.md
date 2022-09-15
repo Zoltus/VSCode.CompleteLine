@@ -1,3 +1,4 @@
+-- Added java support
 # Complete Line
 
 For partial lines of code, this extension completes the line with parentheses, curly braces and semi-colons.
